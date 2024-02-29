@@ -1,0 +1,9 @@
+/*RESET CSS*/
+* {
+  margin: 0;
+  padding: 0;
+}
+main img{
+    width: 650px;
+    height: 650px;
+}
