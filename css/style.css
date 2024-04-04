@@ -3,7 +3,15 @@
   margin: 0;
   padding: 0;
 }
-main img{
-    width: 650px;
-    height: 650px;
+body {
+  /*background-color: #EFEAE4;*/
+  background-image: url(../img/fondo-planisferio.png);
+}
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boxPrincipal {
+  width: 25rem;
 }
